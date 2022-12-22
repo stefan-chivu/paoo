@@ -1,0 +1,3 @@
+/home/schivu/repos/paoo/lab6/CMakeFiles/lab6.dir
+/home/schivu/repos/paoo/lab6/CMakeFiles/edit_cache.dir
+/home/schivu/repos/paoo/lab6/CMakeFiles/rebuild_cache.dir
